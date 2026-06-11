@@ -59,7 +59,7 @@ StayHub is a full-stack property rental platform inspired by modern accommodatio
 
 ## 📁 Project Structure
 
-```text
+```
 Project-StayHub/
 ├── controllers/          # Request handlers
 │   ├── listings.js
